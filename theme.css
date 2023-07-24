@@ -235,6 +235,13 @@ body .excalidraw {
 	--background-table-rows: var(--bg2);
 	--checkbox-color: var(--ax3);
 	--code-normal: var(--tx1);
+	/* --code-keyword: blue; */
+	--code-comment: grey;
+	/* --code-function: blue; */
+	/* --code-operator:  */
+	/* --code-property: black; */
+	--code-punctuation: black;
+	--code-value: rgb(0, 172, 0);
 	--divider-color: var(--ui1);
 	--frame-divider-color: var(--ui1);
 	--icon-color-active: var(--tx1);
